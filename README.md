@@ -38,7 +38,7 @@ on all my commits yet, but here are some promising ones:
 
 ### Colon :
 **E.g.:** `Document: All methods for the Navigation module`
-### -> Arrow ->
+### Arrow ->
 **E.g.:** `Feature -> Add three new skins to the ball game`
 
 ## Endings
