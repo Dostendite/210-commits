@@ -36,8 +36,8 @@ add another one in the message body.
 I haven't decided on the type of separator I'd like to use
 on all my commits yet, but here are some promising ones:
 
-### | Vertical bar |
-**E.g.:** `Document | All methods for the Navigation module`
+### Colon :
+**E.g.:** `Document: All methods for the Navigation module`
 ### -> Arrow ->
 **E.g.:** `Feature -> Add three new skins to the ball game`
 
