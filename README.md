@@ -4,7 +4,7 @@ Hello! This is my personal commit style guide, it is
 heavly inspired in the Conventional Commits site I found
 thanks to The Odin Project.
 
-These past weeks I've been improving my coding skills
+These past few weeks I've been improving my coding skills
 notably, and to level up and celebrate I'd like to introduce
 my own system of Git commits.
 
@@ -38,6 +38,7 @@ on all my commits yet, but here are some promising ones:
 
 ### Colon :
 **E.g.:** `Document: All methods for the Navigation module`
+*This one seems to be the favorite for now.*
 ### Arrow ->
 **E.g.:** `Feature -> Add three new skins to the ball game`
 
